@@ -1,0 +1,48 @@
+[
+  {
+    "product_id": "EM005",
+    "product_name": "Mobile",
+    "category": "Electronics",
+    "unit_price": 25000,
+    "warranty": {
+      "period_months": 24,
+      "from": "Samsung"
+    },
+    "voltage": {
+      "specs": "2500V-3500V"
+    },
+    "tags": ["student", "personal"]
+  },
+{
+  "product_id": "CL012",
+  "product_name": "Men's Casual Jacket",
+  "category": "Clothing",
+  "unit_price": 2500,
+  "brand": "Levi's",
+  "attributes": {
+    "material": "Cotton",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Navy Blue", "Olive"],
+    "gender": "Male"
+  },
+  "tags": ["casual", "winter", "outdoor"]
+},
+{
+  "product_id": "GR021",
+  "product_name": "Whole Wheat Bread",
+  "category": "Groceries",
+  "unit_price": 45,
+  "brand": "Britannia",
+  "expiry_date": "2024-11-30",
+  "nutritional_info": {
+    "calories_per_100g": 265,
+    "protein_g": 9,
+    "carbohydrates_g": 49,
+    "fat_g": 3.5,
+    "fiber_g": 6
+  },
+  "storage": "Cool and dry place",
+  "tags": ["healthy", "breakfast", "vegan"]
+}
+]
+
